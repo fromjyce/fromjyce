@@ -1,3 +1,1 @@
-<p align="center" width="100%">
-    <img src="https://github.com/fromjyce/fromjyce/assets/128211962/044b35f2-4a67-4051-aea6-0712541e6cef" alt="Header">
-</p>
+![Header](https://github.com/fromjyce/fromjyce/assets/128211962/2e6aca32-17ed-43f3-8fe6-6f7deca6e2f5)
