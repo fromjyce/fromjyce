@@ -8,6 +8,7 @@ https://github.com/fromjyce/fromjyce/assets/128211962/bd9f382c-ef8f-41c1-9a09-9e
 <h3 align="center">
 Hello there! I'm Jayashre, probably someone you haven't come across before. It's quite unusual for me to write a README about myself, considering it's typically reserved for applications and software. Nevertheless, here I am, crafting one for myself. Please spare a moment to learn more about me. I go by the name Jayashre, also known as JYCE. I'm passionate about Blockchain Development and Front-End Web Development. My expertise lies in Blockchain Development, Web Development, Machine Learning, and Operating Systems Security.
 </h3>
+
 <h2>More About ME🙋🏻‍♀</h2>
 <p>
 👩🏻‍💻 Currently focused on integrating Machine Learning with Cybersecurity.<br>
@@ -17,4 +18,10 @@ Hello there! I'm Jayashre, probably someone you haven't come across before. It's
 🔍 Interested in teaming up for Hackathons and Capture The Flag (CTF) competitions.<br>
 😄 Fun Fact: My Humour is broken
 </p>
+
+<h2>Connect with ME🙋🏻‍♀</h2>
+<p>
+  <a href="https://www.linkedin.com/in/jayashrek/"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/#FFFFFF" /></a>&nbsp&nbsp&nbsp<a href="https://github.com/fromjyce"><img height="40" width="40" src="https://cdn.simpleicons.org/github/white" /></a>&nbsp&nbsp&nbsp<a><img height="40" width="40" src="https://cdn.simpleicons.org/gmail/#FFFFFF"></a>
+</p>
 <h2></h2>
+
