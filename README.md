@@ -21,7 +21,7 @@ Hello there! I'm Jayashre, probably someone you haven't come across before. It's
 
 <h2>Connect with ME🙋🏻‍♀</h2>
 <p>
-  <a href="https://www.linkedin.com/in/jayashrek/"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/#FFFFFF" /></a>&nbsp&nbsp&nbsp<a href="https://github.com/fromjyce"><img height="40" width="40" src="https://cdn.simpleicons.org/github/white" /></a>&nbsp&nbsp&nbsp<a><img height="40" width="40" src="https://cdn.simpleicons.org/gmail/#FFFFFF"></a>
+  <a href="https://www.linkedin.com/in/jayashrek/"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/#FFFFFF" /></a>&nbsp&nbsp&nbsp<a href="https://github.com/fromjyce"><img height="40" width="40" src="https://cdn.simpleicons.org/github/white" /></a>&nbsp&nbsp&nbsp<a href="mailto:jaya2004kra@gmail.com"><img height="40" width="40" src="https://cdn.simpleicons.org/gmail/#FFFFFF"></a>
 </p>
 <h2></h2>
 
