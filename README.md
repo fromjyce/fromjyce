@@ -1,4 +1,4 @@
-![](https://github.com/fromjyce/fromjyce/assets/128211962/bd9f382c-ef8f-41c1-9a09-9e53a8459751)    
+https://github.com/fromjyce/fromjyce/assets/128211962/bd9f382c-ef8f-41c1-9a09-9e53a8459751
 
 
 
