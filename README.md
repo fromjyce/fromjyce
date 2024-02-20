@@ -23,5 +23,10 @@ Hello there! I'm Jayashre, probably someone you haven't come across before. It's
 <p>
   <a href="https://www.linkedin.com/in/jayashrek/"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/#FFFFFF" /></a>&nbsp&nbsp&nbsp<a href="https://github.com/fromjyce"><img height="40" width="40" src="https://cdn.simpleicons.org/github/white" /></a>&nbsp&nbsp&nbsp<a href="mailto:jaya2004kra@gmail.com"><img height="40" width="40" src="https://cdn.simpleicons.org/gmail/#FFFFFF"></a>
 </p>
-<h2></h2>
+
+
+<h2>Language and Tools</h2>
+<p>
+  <img height="36" width="36" src="https://cdn.simpleicons.org/c/white" />&nbsp&nbsp&nbsp<img height="36" width="36" src="https://cdn.simpleicons.org/python/white" />&nbsp&nbsp&nbsp<img height="36" width="36" src="https://cdn.simpleicons.org/mysql/white" />&nbsp&nbsp&nbsp<img height="36" width="36" src="https://cdn.simpleicons.org/tensorflow/white" />&nbsp&nbsp&nbsp
+</p>
 
