@@ -23,7 +23,7 @@ Hello there! I'm Jayashre, probably someone you haven't come across before. It's
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayashrek/)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/fromjyce)&nbsp;
-[![GMail](https://skillicons.dev/icons?i=gmail)](jaya2004kra@gmail.com)&nbsp;
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/840610453431779348)&nbsp;
 
 <html>
 <h2>Language and Tools</h2>
