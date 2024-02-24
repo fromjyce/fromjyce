@@ -24,10 +24,11 @@ Hello there! I'm Jayashre, probably someone you haven't come across before. It's
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayashrek/)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/fromjyce)&nbsp;
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/840610453431779348)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jaya2004kra@gmail.com)
 
 <html>
 <h2>Language and Tools</h2>
 </html>
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,anaconda,mysql,opencv,tensorflow,vscode,pytorch,pycharm,latex,git,gitlab,github,md,scala,haskell,java,eclipse,html,css,js,netlify,nodejs,react,npm,flask,linux,ubuntu,gtk,windows,kali,bash,powershell,postgres,codepen,kotlin,gradle,androidstudio,materialui,wordpress,sass,vite,nextjs,vercel,figma,solidity,bootstrap,sklearn,gcp,docker,wireshark)](https://skillicons.dev)
-
+\
