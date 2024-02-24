@@ -1,7 +1,6 @@
 https://github.com/fromjyce/fromjyce/assets/128211962/bd9f382c-ef8f-41c1-9a09-9e53a8459751
 
-
-
+<html>
 <p align="center">
 <i>You only live once, but if you do it right, once is enough.</i>
 </p>
@@ -20,13 +19,9 @@ Hello there! I'm Jayashre, probably someone you haven't come across before. It's
 </p>
 
 <h2>Connect with ME🙋🏻‍♀</h2>
-<p>
-  <a href="https://www.linkedin.com/in/jayashrek/"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/#FFFFFF" /></a>&nbsp&nbsp&nbsp<a href="https://github.com/fromjyce"><img height="40" width="40" src="https://cdn.simpleicons.org/github/white" /></a>&nbsp&nbsp&nbsp<a href="mailto:jaya2004kra@gmail.com"><img height="40" width="40" src="https://cdn.simpleicons.org/gmail/#FFFFFF"></a>
-</p>
-
 
 <h2>Language and Tools</h2>
-<p>
-  <img height="36" width="36" src="https://cdn.simpleicons.org/c/white" />&nbsp&nbsp&nbsp<img height="36" width="36" src="https://cdn.simpleicons.org/python/white" />&nbsp&nbsp&nbsp<img height="36" width="36" src="https://cdn.simpleicons.org/mysql/white" />&nbsp&nbsp&nbsp<img height="36" width="36" src="https://cdn.simpleicons.org/tensorflow/white" />&nbsp&nbsp&nbsp
-</p>
+</html>
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,anaconda,mysql,opencv,tensorflow,vscode,pytorch,pycharm,latex,git,gitlab,github,md,scala,haskell,java,eclipse,html,css,js,netlify,nodejs,react,npm,flask,linux,ubuntu,gtk,windows,kali,bash,powershell,postgres,codepen,kotlin,gradle,androidstudio,materialui,wordpress,sass,vite,nextjs,vercel,figma,solidity,bootstrap,sklearn,gcp,docker)](https://skillicons.dev)
 
