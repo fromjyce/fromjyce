@@ -20,9 +20,7 @@ Hello there! I'm Jayashre.
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> ](https://leetcode.com/u/jaya2004kra/)
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  ](https://discordapp.com/users/840610453431779348)
 
-
-
-<h2>Language and Tools</h2>
+## Tech Stack 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,anaconda,mysql,opencv,tensorflow,vscode,pytorch,pycharm,latex,git,gitlab,github,md,scala,haskell,java,eclipse,html,css,js,netlify,nodejs,react,npm,flask,linux,ubuntu,gtk,windows,kali,bash,powershell,postgres,codepen,kotlin,gradle,androidstudio,materialui,wordpress,sass,vite,nextjs,vercel,figma,solidity,bootstrap,sklearn,gcp,docker,wireshark)](https://skillicons.dev)
 \
