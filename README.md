@@ -15,7 +15,7 @@ Hello there! I'm Jayashre.
 
 <h2>My Socials 🌐</h2>
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]((mailto:jaya2004kra@gmail.com))  
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jaya2004kra@gmail.com)  
 
 
 
