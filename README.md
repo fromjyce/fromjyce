@@ -10,7 +10,7 @@ Hello there! I'm Jayashre.
 #### 🔄 I'm also figuring out what to learn and what to skip (a.k.a. stuck in tutorial hell).<br>
 #### 😄 Fun fact: My sense of humor might be broken, but I'm still laughing!
 
-## My Socials 🌐
+## My Socials 🌐 - Visit my [**Website**](http://bit.ly/jayashre)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/jayashrek/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jaya2004kra@gmail.com)
