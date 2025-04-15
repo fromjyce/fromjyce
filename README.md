@@ -30,9 +30,11 @@ Hi there! I'm Jayashre, a Computer Science and Engineering student at Shiv Nadar
   <table>
     <tr>
       <td align="center" width="50%">
+        <p> Visitor Count</p>
         <img src="https://profile-counter.glitch.me/fromjyce/count.svg" />
       </td>
       <td align="center" width="50%">
+        <p> GitHub Stats</p>
         <img width="495px" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=fromjyce&hide=html&layout=compact&theme=buefy"/>
       </td>
     </tr>
